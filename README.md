@@ -69,10 +69,14 @@ Permission Abuse	                 Extensions ask for broad permissions like "rea
 ## Steps to Remove suspicious or unnecessary extensions
 
 Step 1:- Go to: chrome://extensions/ 
-Step 2:- Review Installed Extensions 
+
+Step 2:- Review Installed Extensions
+
 Step 3:- Identify Suspicious or Unused Extensions
+
 Step 4:- emove/Disable Extensions
     - In Chrome: Click Remove or toggle switch to disable
+    
 Step 5:- Restart the browser
 
 
