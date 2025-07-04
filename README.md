@@ -12,7 +12,8 @@ Any web browser (Chrome)
 
 ## Extensions Report 
 
-Extensions Found : Noen 
+Extensions Found : None 
+
 Shown in : `Extension.png`
 
 I confirmed that no browser extensions are currently installed in my browser. This means:
