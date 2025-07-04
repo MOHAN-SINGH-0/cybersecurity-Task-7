@@ -45,13 +45,13 @@ Malicious browser extensions can act like spyware or backdoors inside your brows
   
 Threat Type	                                                      Description
 
-Data Theft	                        Malicious extensions can steal sensitive data like login credentials, emails, payment info, etc.
-Session Hijacking	                They can hijack logged-in sessions (like Gmail, Facebook) by stealing cookies or tokens.
-Keylogging	                      Some extensions log keystrokes to capture passwords, messages, or card numbers.
-Click Hijacking                  	They can replace links on webpages to redirect you to phishing or scam websites.
-Cryptojacking	                    They secretly use your CPU to mine cryptocurrency, slowing your computer.
-Ad Injection	                    Injects unwanted ads or affiliate links into webpages, earning money for the attacker.
-Permission Abuse	                 Extensions ask for broad permissions like "read and change all your data on websites" — then misuse it silently.
+Data Theft:-	                        Malicious extensions can steal sensitive data like login credentials, emails, payment info, etc.
+Session Hijacking:-	                They can hijack logged-in sessions (like Gmail, Facebook) by stealing cookies or tokens.
+Keylogging:-	                      Some extensions log keystrokes to capture passwords, messages, or card numbers.
+Click Hijacking:-                  	They can replace links on webpages to redirect you to phishing or scam websites.
+Cryptojacking:-	                    They secretly use your CPU to mine cryptocurrency, slowing your computer.
+Ad Injection:-	                    Injects unwanted ads or affiliate links into webpages, earning money for the attacker.
+Permission Abuse:-	                 Extensions ask for broad permissions like "read and change all your data on websites" — then misuse it silently.
 
 ## Real-World Examples
 
