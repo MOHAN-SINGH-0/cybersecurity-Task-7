@@ -74,7 +74,7 @@ Step 2:- Review Installed Extensions
 
 Step 3:- Identify Suspicious or Unused Extensions
 
-Step 4:- emove/Disable Extensions
+Step 4:- Remove/Disable Extensions
     - In Chrome: Click Remove or toggle switch to disable
     
 Step 5:- Restart the browser
